@@ -1,0 +1,57 @@
+repo_name: huhuhuHR/Luyten
+report_id: e9176f30565e7ea0cf4d3cd58e70128d
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-02T01:27:55+00:00'
+requested_by: deathmarine
+provider: github
+branch: master
+detected_tools_count: 4
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/huhuhuHR/Luyten
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/huhuhuHR/Luyten
+  detection_source: Repo Metadata
+- name: com.apple:AppleJavaExtensions
+  description: The prefuse visualization toolkit
+  version: '1.4'
+  license: AML
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/Luyten/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: ATnayan
+  last_updated_on: 2020-04-05 18:32:39.000000000 Z
+- name: com.fifesoft:rsyntaxtextarea
+  description: RSyntaxTextArea is the syntax highlighting text editor for Swing applications
+  version: 3.0.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/Luyten/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: deathmarine
+  last_updated_on: 2018-06-05 19:49:47.000000000 Z
